@@ -1,0 +1,15 @@
+E:\Works\testing\testing\testing\bin\Debug\netstandard2.0\testing.deps.json
+E:\Works\testing\testing\testing\bin\Debug\netstandard2.0\testing.dll
+E:\Works\testing\testing\testing\bin\Debug\netstandard2.0\ref\testing.dll
+E:\Works\testing\testing\testing\bin\Debug\netstandard2.0\testing.pdb
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\testing.csproj.AssemblyReference.cache
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\testing.AssemblyInfoInputs.cache
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\testing.AssemblyInfo.cs
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\testing.csproj.CoreCompileInputs.cache
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\testing.dll
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\ref\testing.dll
+E:\Works\testing\testing\testing\obj\Debug\netstandard2.0\testing.pdb

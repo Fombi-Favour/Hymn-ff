@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testing.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Source="taccLogo.png" BackgroundColor="#2196F3"
+            Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+            HeightRequest="250"/>
+
+        <Label Text="Select a default language of your choice"
+               Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2"
+               FontSize="19" VerticalOptions="Center" 
+               HorizontalOptions="Center" 
+               />
+        <Label Text="Sélectionnez une langue par défaut de votre choix" 
+               Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3"
+               FontSize="17" VerticalOptions="Center" 
+               HorizontalOptions="Center"/>
+
+        <Button Text="english"
+                Grid.Row="5" Grid.Column="0"
+                BackgroundColor="#2196F3"
+                Clicked="Button_Clicked"/>
+        <Button Text="french"
+                Grid.Row="5" Grid.Column="1"
+                BackgroundColor="#2196F3"
+                Clicked="Button_Clicked"/>
+
+
+    </Grid>
+
+</ContentPage>
