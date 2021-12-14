@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wGlQ9FYgY2vfTPevc5hYcQbXiRwD4+iCUO80Ds9dDLVPlNurUnCAyhnMrp8WuPgxKIkCFGNb+Vi5MDJrDoPitg==",
+  "dgSpecHash": "7pBp1x4Mm5VaR3/OOtFN0LmBBOXvyAzHT+9/uSyQG9Ti8TvG15HS1eBqDrL1sJoaGgcB4vsGWftQZtQNcq9Rvw==",
   "success": true,
-  "projectFilePath": "E:\\Works\\testing\\testing\\testing.iOS\\testing.iOS.csproj",
+  "projectFilePath": "E:\\Works\\test_files\\testing\\testing\\testing.iOS\\testing.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

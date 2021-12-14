@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CvzUUpVkdLAqpEWy84RCvHVhjqfr9ktoQLJxdCCQc2tCWGaQUJNrqHpgp9lqSTyrWgWPQw2i/Tqp1W7JCWKj5Q==",
+  "dgSpecHash": "KVZ81E176ncTtP24FwjZLHRuf5pVgLdirFOodGzTpcZhp8gZz/wvEZl5cxtI18tMoVPP4UA+B6h8eGkDXlZytA==",
   "success": true,
-  "projectFilePath": "E:\\Works\\testing\\testing\\testing.Android\\testing.Android.csproj",
+  "projectFilePath": "E:\\Works\\test_files\\testing\\testing\\testing.Android\\testing.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

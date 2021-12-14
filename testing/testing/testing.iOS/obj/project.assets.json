@@ -988,11 +988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Works\\testing\\testing\\testing.iOS\\testing.iOS.csproj",
+      "projectUniqueName": "E:\\Works\\test_files\\testing\\testing\\testing.iOS\\testing.iOS.csproj",
       "projectName": "testing.iOS",
-      "projectPath": "E:\\Works\\testing\\testing\\testing.iOS\\testing.iOS.csproj",
+      "projectPath": "E:\\Works\\test_files\\testing\\testing\\testing.iOS\\testing.iOS.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\Works\\testing\\testing\\testing.iOS\\obj\\",
+      "outputPath": "E:\\Works\\test_files\\testing\\testing\\testing.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1013,8 +1013,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\Works\\testing\\testing\\testing\\testing.csproj": {
-              "projectPath": "E:\\Works\\testing\\testing\\testing\\testing.csproj"
+            "E:\\Works\\test_files\\testing\\testing\\testing\\testing.csproj": {
+              "projectPath": "E:\\Works\\test_files\\testing\\testing\\testing\\testing.csproj"
             }
           }
         }
